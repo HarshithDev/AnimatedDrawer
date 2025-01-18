@@ -39,3 +39,5 @@ Pages defines Individual screens, this will have business logic for particular s
 <p>
 <video src="https://github.com/HarshithDev/AnimatedDrawer/blob/main/src/assets/Screen%20Recording%202025-01-18%20at%2010.32.18%20AM.mov">
 </p>
+
+<p>Not able to see video? <a href="https://github.com/HarshithDev/AnimatedDrawer/raw/refs/heads/main/src/assets/Screen%20Recording%202025-01-18%20at%2010.32.18%20AM.mov">Download Here</a></p>
