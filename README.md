@@ -37,5 +37,5 @@ Pages defines Individual screens, this will have business logic for particular s
 ## Video
 
 <p>
-<video src="">
+<video src="https://github.com/HarshithDev/AnimatedDrawer/blob/main/src/assets/Screen%20Recording%202025-01-18%20at%2010.32.18%20AM.mov">
 </p>
